@@ -8,6 +8,22 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the Clueboard product line.
 
+## Methodology
+
+I went towards using the json file for the layout rather than the ascii map. To install on the Piantor:
+
+- go to the [configurator](https://config.qmk.fm/)
+- download the json kemap
+- build:
+  ```sh
+  mv /Users/carlos/Downloads/lostineverland.json ./keyboards/beekeeb/piantor_pro/keymaps/lostineverland/keymap.json
+  qmk compile
+  ```
+- flash firmware on both keyboard halves
+  ```sh
+  mv beekeeb_piantor_pro_lostineverland.uf2 /Volumes/RPI-RP2
+  ```
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
