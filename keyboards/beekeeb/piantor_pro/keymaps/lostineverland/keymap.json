@@ -45,7 +45,7 @@
       "KC_BSLS",
       "MO(3)",
       "LT(1,KC_SPC)",
-      "LT(2,KC_ENT)",
+      "MO(2)",
       "LT(1,KC_ENT)",
       "LT(2,KC_SPC)",
       "MO(3)"
