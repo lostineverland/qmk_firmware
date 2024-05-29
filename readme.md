@@ -23,6 +23,19 @@ I went towards using the json file for the layout rather than the ascii map. To 
   ```sh
   mv beekeeb_piantor_pro_lostineverland.uf2 /Volumes/RPI-RP2
   ```
+## Fine Tuning
+
+I love this keyboard, and as I become more adept at using it, I progressively type faster. Consequently, I started running into some limitations with the home row mods. I also started using a 
+wireless version (DAO Choc) which uses ZMK instead of QMK. ZMK identifies a few behavior categories to customize a keyboard to a user's style. QMK identifies the tap/hold "balanced" behavior as one that is favorable for home row mods. In ZMK the equivalent is "permissive hold".
+
+### Troublesome Words:
+
+    - fast
+    - some
+    - dict
+    - I'm
+    - split
+    - status
 
 ## Documentation
 
