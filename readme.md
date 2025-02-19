@@ -23,6 +23,11 @@ I went towards using the json file for the layout rather than the ascii map. To 
   ```sh
   mv beekeeb_piantor_pro_lostineverland.uf2 /Volumes/RPI-RP2
   ```
+- build `keymap.json`
+  - I made a script `layers.py`
+  - which makes use of a `keymap.layout` file
+  - to build `layers.json`, which goes into `keymap.json`
+
 ## Fine Tuning
 
 I love this keyboard, and as I become more adept at using it, I progressively type faster. Consequently, I started running into some limitations with the home row mods. I also started using a 
