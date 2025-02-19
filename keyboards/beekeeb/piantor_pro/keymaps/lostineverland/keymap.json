@@ -64,13 +64,13 @@
       "KC_LBRC", "KC_UNDS", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_UNDS", "KC_LBRC",
       "KC_LPRN", "KC_PPLS", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_PPLS", "KC_LPRN",
       "KC_LCBR", "KC_PAST", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_PAST", "KC_LCBR",
-      "KC_TRNS", "TO(0)", "KC_NO", "KC_NO", "TO(0)", "KC_TRNS"
+      "KC_TRNS", "KC_NO", "TO(0)", "TO(0)", "KC_NO", "KC_TRNS"
     ],
     [
-      "KC_BTN1", "LSFT_T(KC_HOME)", "LSFT_T(KC_PGDN)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_END)", "KC_WH_D", "KC_WH_D", "RSFT_T(KC_HOME)", "RSFT_T(KC_PGUP)", "RSFT_T(KC_PGDN)", "RSFT_T(KC_END)", "KC_BTN1",
-      "KC_BTN2", "LSFT_T(KC_LEFT)", "LSFT_T(KC_DOWN)", "LSFT_T(KC_UP)", "LSFT_T(KC_RGHT)", "KC_WH_U", "KC_WH_U", "RSFT_T(KC_LEFT)", "RSFT_T(KC_UP)", "RSFT_T(KC_DOWN)", "RSFT_T(KC_RGHT)", "KC_BTN2",
-      "TO(6)", "KC_MS_L", "KC_MS_D", "KC_MS_U", "KC_MS_R", "KC_TRNS", "KC_TRNS", "KC_MS_L", "KC_MS_U", "KC_MS_D", "KC_MS_R", "TO(6)",
-      "KC_NO", "KC_LALT", "KC_LGUI", "KC_RGUI", "KC_RALT", "KC_NO"
+      "KC_BTN1", "KC_WH_D", "LSFT_T(KC_HOME)", "LSFT_T(KC_UP)", "LSFT_T(KC_END)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_HOME)", "LSFT_T(KC_UP)", "LSFT_T(KC_END)", "KC_WH_D", "KC_BTN1",
+      "KC_BTN2", "KC_WH_U", "LSFT_T(KC_LEFT)", "LSFT_T(KC_DOWN)", "LSFT_T(KC_RGHT)", "LSFT_T(KC_PGDN)", "RSFT_T(KC_PGDN)", "RSFT_T(KC_LEFT)", "RSFT_T(KC_DOWN)", "RSFT_T(KC_RGHT)", "KC_WH_U", "KC_BTN2",
+      "TO(6)", "KC_MS_L", "KC_MS_U", "KC_MS_D", "KC_MS_R", "KC_TRNS", "KC_TRNS", "KC_MS_L", "KC_MS_D", "KC_MS_U", "KC_MS_R", "TO(6)",
+      "KC_LCTL", "KC_LALT", "KC_LGUI", "KC_RGUI", "KC_RALT", "KC_RCTL"
     ]
   ],
   "author": ""
