@@ -58,7 +58,7 @@
       "KC_LBRC", "KC_UNDS", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_UNDS", "KC_LBRC",
       "KC_LPRN", "KC_PPLS", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_PPLS", "KC_LPRN",
       "KC_LCBR", "KC_PAST", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_PAST", "KC_LCBR",
-      "KC_TRNS", "TO(0)", "KC_NO", "KC_NO", "TO(0)", "KC_TRNS"
+      "KC_TRNS", "KC_NO", "TO(0)", "TO(0)", "KC_NO", "KC_TRNS"
     ],
     [
       "KC_BTN1", "LSFT_T(KC_HOME)", "LSFT_T(KC_PGDN)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_END)", "KC_WH_D", "KC_WH_D", "RSFT_T(KC_HOME)", "RSFT_T(KC_PGUP)", "RSFT_T(KC_PGDN)", "RSFT_T(KC_END)", "KC_BTN1",
