@@ -57,7 +57,7 @@
     [
       "KC_GRV", "KC_EXLM", "KC_AT", "KC_HASH", "KC_DLR", "KC_PERC", "KC_PERC", "KC_DLR", "KC_HASH", "KC_AT", "KC_EXLM", "KC_GRV",
       "KC_TILD", "KC_CIRC", "KC_AMPR", "KC_ASTR", "KC_EQL", "KC_MINS", "KC_MINS", "KC_EQL", "KC_ASTR", "KC_AMPR", "KC_CIRC", "KC_TILD",
-      "KC_CAPS", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "TO(10)", "TO(10)", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_CAPS",
+      "KC_CAPS", "KC_NO", "KC_NO", "KC_NO", "TO(11)", "TO(10)", "TO(10)", "TO(11)", "KC_NO", "KC_NO", "KC_NO", "KC_CAPS",
       "TO(0)", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_NO", "TO(0)"
     ],
     [
@@ -67,10 +67,16 @@
       "KC_TRNS", "KC_NO", "TO(0)", "TO(0)", "KC_NO", "KC_TRNS"
     ],
     [
-      "KC_BTN1", "KC_WH_D", "LSFT_T(KC_HOME)", "LSFT_T(KC_UP)", "LSFT_T(KC_END)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_PGUP)", "LSFT_T(KC_HOME)", "LSFT_T(KC_UP)", "LSFT_T(KC_END)", "KC_WH_D", "KC_BTN1",
-      "KC_BTN2", "KC_WH_U", "LSFT_T(KC_LEFT)", "LSFT_T(KC_DOWN)", "LSFT_T(KC_RGHT)", "LSFT_T(KC_PGDN)", "RSFT_T(KC_PGDN)", "RSFT_T(KC_LEFT)", "RSFT_T(KC_DOWN)", "RSFT_T(KC_RGHT)", "KC_WH_U", "KC_BTN2",
-      "TO(6)", "KC_MS_L", "KC_MS_U", "KC_MS_D", "KC_MS_R", "KC_TRNS", "KC_TRNS", "KC_MS_L", "KC_MS_D", "KC_MS_U", "KC_MS_R", "TO(6)",
-      "KC_LCTL", "KC_LALT", "KC_LGUI", "KC_RGUI", "KC_RALT", "KC_RCTL"
+      "KC_NO", "KC_NO", "KC_HOME", "KC_UP", "KC_END", "KC_PGUP", "KC_PGUP", "KC_HOME", "KC_UP", "KC_END", "KC_WH_D", "KC_NO",
+      "KC_NO", "KC_NO", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_PGDN", "KC_PGDN", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_WH_U", "KC_NO",
+      "TO(6)", "OSM(MOD_LSFT)", "KC_NO", "KC_NO", "KC_NO", "KC_TRNS", "KC_TRNS", "KC_NO", "KC_NO", "KC_NO", "OSM(MOD_RSFT)", "TO(6)",
+      "OSM(MOD_LCTL)", "OSM(MOD_LALT)", "OSM(MOD_LGUI)", "OSM(MOD_RGUI)", "OSM(MOD_RALT)", "OSM(MOD_RCTL)"
+    ],
+    [
+      "KC_BTN1", "KC_NO", "KC_WH_D", "KC_MS_U", "KC_WH_U", "KC_WH_D", "KC_WH_D", "KC_WH_D", "KC_MS_U", "KC_WH_U", "KC_NO", "KC_BTN1",
+      "KC_BTN2", "KC_NO", "KC_MS_L", "KC_MS_D", "KC_MS_R", "KC_WH_U", "KC_WH_U", "KC_MS_L", "KC_MS_D", "KC_MS_R", "KC_NO", "KC_BTN2",
+      "TO(6)", "OSM(MOD_LSFT)", "KC_NO", "KC_NO", "KC_TRNS", "KC_NO", "KC_NO", "KC_TRNS", "KC_NO", "KC_NO", "OSM(MOD_RSFT)", "TO(6)",
+      "OSM(MOD_LCTL)", "OSM(MOD_LALT)", "OSM(MOD_LGUI)", "OSM(MOD_RGUI)", "OSM(MOD_RALT)", "OSM(MOD_RCTL)"
     ]
   ],
   "author": ""

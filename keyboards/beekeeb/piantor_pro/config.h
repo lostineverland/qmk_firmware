@@ -16,3 +16,6 @@
 #define SPLIT_HAND_PIN GP17
 #define SPLIT_HAND_PIN_LOW_IS_LEFT
 #define PERMISSIVE_HOLD
+
+#define ONESHOT_TIMEOUT 5000       // Time in milliseconds before the one-shot modifier times out (adjust as needed)
+#define ONESHOT_TAP_TOGGLE 2       // Number of taps to toggle the modifier on permanently (set to 0 to disable)
