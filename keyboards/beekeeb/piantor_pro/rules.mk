@@ -1,2 +1,3 @@
 SERIAL_DRIVER = vendor
 ONE_SHOT_ENABLE = yes
+LAYER_LOCK_ENABLE = yes
