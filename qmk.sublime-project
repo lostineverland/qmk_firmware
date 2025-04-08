@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+		{
+			"path": "/Users/carlos/code/journal/GPT_logs"
+		},
+	],
+  "subgpt": {
+  	"log_path": "~/GPT_logs",
+  }
+}
